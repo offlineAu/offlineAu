@@ -1,16 +1,40 @@
-## Hi there 👋
+# Hi, I'm Au 👋
 
-<!--
-**offlineAu/offlineAu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Web Developer focused on building functional subsystems, dashboards, and automation tools  
+🚀 Currently exploring Laravel and MVC-based system architecture  
+📊 Experienced in developing real workflow dashboards and data-driven interfaces  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Stack
+
+- Laravel
+- MVC Architecture
+- React
+- JavaScript
+- Bootstrap 5
+- Google Apps Script
+- Python Automation
+- PostgreSQL
+
+---
+
+## 📌 Highlight Projects
+
+🔹 Issuance Tracker Dashboard  
+Subsystem with search, filters, pagination, and workflow tracking  
+
+🔹 Laravel QR Authentication System  
+QR-based login prototype built using Laravel  
+
+🔹 Sentiment Analysis System  
+Machine learning based project for analyzing text sentiment  
+
+---
+
+## 🎯 Current Focus
+
+- Building scalable systems using MVC  
+- Improving backend integration  
+- Designing cleaner dashboard UI  
+- Developing automation solutions  
