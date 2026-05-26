@@ -34,7 +34,7 @@ Machine learning based project for analyzing text sentiment
 
 ## 🎯 Current Focus
 
-- Building scalable systems using MVC  
+- Building scalable systems using Layered Architecture
 - Improving backend integration  
 - Designing cleaner dashboard UI  
 - Developing automation solutions  
