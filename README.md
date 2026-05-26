@@ -1,7 +1,7 @@
 # Hi, I'm Au 👋
 
 💻 Web Developer focused on building functional subsystems, dashboards, and automation tools  
-🚀 Currently exploring Laravel and MVC-based system architecture  
+🚀 Currently exploring Laravel and Layered-based system architecture  
 📊 Experienced in developing real workflow dashboards and data-driven interfaces  
 
 ---
