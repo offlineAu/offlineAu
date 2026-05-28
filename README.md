@@ -9,7 +9,7 @@
 ## 🛠 Tech Stack
 
 - Laravel
-- MVC Architecture
+- Layered Architecture
 - React
 - JavaScript
 - Bootstrap 5
