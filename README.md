@@ -12,6 +12,7 @@
 - PHP
 - React
 - JavaScript
+- TypeScript
 - Bootstrap 5
 - Google Apps Script
 - Python
