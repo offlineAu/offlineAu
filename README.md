@@ -17,6 +17,7 @@
 - Python
 - PostgreSQL
 - MySQL
+- PostgreSQL
 - ReactNative
 
 ##  AI/IDE
