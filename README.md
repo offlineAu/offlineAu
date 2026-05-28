@@ -8,17 +8,11 @@
 
 ## 🛠 Tech Stack
 
-- Laravel
 - PHP
 - React
 - JavaScript
 - TypeScript
-- Bootstrap 5
-- Google Apps Script
 - Python
-- PostgreSQL
-- MySQL
-- PostgreSQL
 - ReactNative
 
 ##  AI/IDE
