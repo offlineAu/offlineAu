@@ -2,7 +2,11 @@
 <p align="center"><strong>Junior AI Engineer</strong> · Bukidnon, Philippines</p>
 
 <p align="center">
-  <img src="github-profile/ascii-portrait1.png" alt="ASCII" width="600">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="github-profile/ascii-portrait-dark.png">
+    <source media="(prefers-color-scheme: light)" srcset="github-profile/ascii-portrait-light.png">
+    <img src="github-profile/ascii-portrait-light.png" alt="ASCII portrait of Airl Joriz Janoplo" width="600">
+  </picture>
 </p>
 
 <p align="center">I build practical web applications, from school management modules to student well-being platforms.</p>
