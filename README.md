@@ -87,9 +87,8 @@ The web application uses **Laravel and React**, with a **FastAPI** service for t
 
 **Contribution calendar** · The past year
 
-<a href="https://github.com/offlineAu#contribution-activity">
-  <img src="https://ghchart.rshah.org/c8a96e/offlineAu" alt="Contribution calendar for offlineAu over the past year" width="820">
-</a>
+[![Contribution calendar for offlineAu](https://ghchart.xqsit94.in/light:halloween/offlineAu#gh-light-mode-only)](https://github.com/offlineAu#contribution-activity)
+[![Contribution calendar for offlineAu](https://ghchart.xqsit94.in/dark:halloween/offlineAu#gh-dark-mode-only)](https://github.com/offlineAu#contribution-activity)
 
 <sub>Select the calendar to explore the contribution history on GitHub.</sub>
 
