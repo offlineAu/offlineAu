@@ -10,11 +10,7 @@
 
 
 <a id="about"></a>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-profile/section-about-dark.png">
-  <source media="(prefers-color-scheme: light)" srcset="github-profile/section-about-light.png">
-  <img src="github-profile/section-about-light.png" alt="01 / About" width="1200">
-</picture>
+<img src="github-profile/section-about.png" alt="About" width="1200">
 
 I’m Au. My work spans **frontend interfaces, backend services, database integrations, and RESTful APIs**. I use JavaScript, TypeScript, PHP, and Python, with experience in React, Laravel, and FastAPI.
 
@@ -24,11 +20,7 @@ I’ve worked on Human Resource, Payroll, Finance, Student, Principal and Regist
 
 
 <a id="selected-work"></a>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-profile/section-selected-work-dark.png">
-  <source media="(prefers-color-scheme: light)" srcset="github-profile/section-selected-work-light.png">
-  <img src="github-profile/section-selected-work-light.png" alt="02 / Selected work" width="1200">
-</picture>
+<img src="github-profile/section-selected-work.png" alt="Selected work" width="1200">
 
 <table>
   <tr>
@@ -63,11 +55,7 @@ The web application uses **Laravel and React**, with a **FastAPI** service for t
 
 
 <a id="toolkit"></a>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-profile/section-toolkit-dark.png">
-  <source media="(prefers-color-scheme: light)" srcset="github-profile/section-toolkit-light.png">
-  <img src="github-profile/section-toolkit-light.png" alt="03 / Toolkit" width="1200">
-</picture>
+<img src="github-profile/section-toolkit.png" alt="Toolkit" width="1200">
 
 <p>
   <img src="github-profile/icons/typescript.svg" alt="TypeScript" width="26" height="26"> &nbsp;
@@ -91,11 +79,7 @@ The web application uses **Laravel and React**, with a **FastAPI** service for t
 
 
 <a id="github-activity"></a>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-profile/section-github-activity-dark.png">
-  <source media="(prefers-color-scheme: light)" srcset="github-profile/section-github-activity-light.png">
-  <img src="github-profile/section-github-activity-light.png" alt="04 / Activity" width="1200">
-</picture>
+<img src="github-profile/section-github-activity.png" alt="GitHub activity" width="1200">
 
 **Contribution calendar** · The past year
 
