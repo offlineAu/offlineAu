@@ -1,6 +1,6 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="github-profile/masthead-dark.png">
-  <source media="(prefers-color-scheme: light)" srcset="github-profile/masthead-light.png">
+  <source media="(prefers-color-scheme: light)" srcset="github-profile/masthead-light1.png">
   <img src="github-profile/masthead-light.png" alt="Airl Joriz Janoplo — Junior AI Engineer. ASCII portrait and editorial introduction." width="1200">
 </picture>
 
