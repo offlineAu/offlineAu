@@ -10,7 +10,8 @@
 
 
 <a id="about"></a>
-<img src="github-profile/section-about.png" alt="About" width="1200">
+![About](github-profile/section-about-light.png#gh-light-mode-only)
+![About](github-profile/section-about-dark.png#gh-dark-mode-only)
 
 I’m Au. My work spans **frontend interfaces, backend services, database integrations, and RESTful APIs**. I use JavaScript, TypeScript, PHP, and Python, with experience in React, Laravel, and FastAPI.
 
@@ -20,7 +21,8 @@ I’ve worked on Human Resource, Payroll, Finance, Student, Principal and Regist
 
 
 <a id="selected-work"></a>
-<img src="github-profile/section-selected-work.png" alt="Selected work" width="1200">
+![Selected work](github-profile/section-selected-work-light.png#gh-light-mode-only)
+![Selected work](github-profile/section-selected-work-dark.png#gh-dark-mode-only)
 
 <table>
   <tr>
@@ -55,7 +57,8 @@ The web application uses **Laravel and React**, with a **FastAPI** service for t
 
 
 <a id="toolkit"></a>
-<img src="github-profile/section-toolkit.png" alt="Toolkit" width="1200">
+![Toolkit](github-profile/section-toolkit-light.png#gh-light-mode-only)
+![Toolkit](github-profile/section-toolkit-dark.png#gh-dark-mode-only)
 
 <p>
   <img src="github-profile/icons/typescript.svg" alt="TypeScript" width="26" height="26"> &nbsp;
@@ -79,7 +82,8 @@ The web application uses **Laravel and React**, with a **FastAPI** service for t
 
 
 <a id="github-activity"></a>
-<img src="github-profile/section-github-activity.png" alt="GitHub activity" width="1200">
+![GitHub activity](github-profile/section-github-activity-light.png#gh-light-mode-only)
+![GitHub activity](github-profile/section-github-activity-dark.png#gh-dark-mode-only)
 
 **Contribution calendar** · The past year
 
