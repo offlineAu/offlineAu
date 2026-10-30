@@ -1,82 +1,59 @@
 <h1 align="center">Airl Joriz Janoplo</h1>
-<p align="center"><strong>Web Developer</strong> · Bukidnon, Philippines</p>
-<p align="center">Practical, considered software for real-world problems.</p>
+<p align="center"><strong>Junior AI Engineer</strong> · Bukidnon, Philippines</p>
 
-```text
+<p align="center">
+  <img src="github-profile/ascii-portrait.png" alt="ASCII portrait of Airl Joriz Janoplo" width="600">
+</p>
 
-
-                                  ..
-                             ,...,,....,
-                       ...,.,iir;;,.....   .
-                  ..,......,,:::,.,....
-                .:;:.....         ......         ..
-               :ri,.  .             ..,...   .    ...
-              rXi,....         ,,.   .....         ....
-            .XAi:::,..        .::,. .......           .:,
-            Xsi;,:::,..       .;:.   .,,..             .::
-           rr:i,.,::,..       ,i;:..  .,,.               :;.
-          :, ;i:::.     .,;irsXXsr;iii;:,..             ..;s
-         ...:;;::.   ,isA253h3h52X2AAXsrri;:,..          :iX.
-         ,,r:..,   .;X233hhMMMMh33352AXXssri:,...        .:3X
-         ;r: ..   .r253hhMHHGHHMhhh3352AAXsr;,. .       ...s5:
-        :i. ,.    :A5hhMMHHGGHHHMHMMh35522Xsi;:. .        .;As
-        ss..     .r23hMMHHHHHHHMMHHMhhh355Asri;,           ,is,
-        sA:     .r253MHGGSSSGGHHHHHHHMMhh352Asi,.         . ,ri
-       :2s,    .s335hMhHHHGSSGGGHHGHGHHMh352Asi:.           .;X,
-       .r:..:  :3h5ssssriirsXA3MHHHMh32Xr;;;:,...        .....;,
-        :  Xi  sMMh352XXsr;irA5hhMM32Xiiirssrrii:,,,.   .,, ,:,
-        ,  5Ar,5MHHM5XiX2r:rrA33HSH3s:;is3r:::.,;;:::: .::,  ,:
-        :, AGs:hMHHMMHHHHM355hMMHSH2i:rA555AXri;;ri:rs..::,  ..
-        ,: r3ishMHGGGSSSGGGGSSGGGSMA;;sA53hh335Asr;:Xs,.,:,  ..
-         ,.22sA5MHGS#99#SSS##SGHHGMA;:;A53hMMM32Xi:;Xi:.,;,  .
-           55h52hHGS#######SSHHGSSH3r;:;A3hhh32Xr;:;i;.:::. .
-           sGMH53HGGSS####SHHGHMGGM2rAs,:A3h35Xri::;;;,:;;..
-           .X535hMHGGGSS#SHHG323M5Xr;AX;i5h35Asi;::;;;,,,:.
-           ,,, .3MMHGGGGSGGSGGSSGhMh2XA25535Xsr;;::;r,   .
-           ,::. rMMHHGGGGHHGSSGSHhHh52XXXA2Arii;:::ii  . .
-            .,.  AMMHHHHM3A22AAAA2sri;:,:A5Xr;;:::;i,  .,.
-             ,.. .2MhMMMMhHH32535A2Xr:.,r25Xr;:,,:;:   .;.
-             .,..  s3hhhMHHHHM35AAXXsiisXAXs;,,,:::   . :.
-              .,..  :A5hMHHHHHGGHMhh322AXsr;,,,,,,.   .,,.
-              .,...  .AA5hHHGGSSGHMh52XXri:,,....     .:
-                ..... r5XXA53MHHMh35Asri:...           .,
-                 ,,..,.25AAsrrsssrri;:,.                .,.
-                    ,. ;3253352Xrrii;,.                   .,
-                    ,.  A5X2hMMh5As;.                      ....
-```
-
-I’m Au. I build web applications, dashboards, and automation tools—from the interface to the services and data behind it. My work includes school management workflows and Sentisphere, a web and mobile platform for student well-being.
-
-[LinkedIn](https://www.linkedin.com/in/airljoriz-dev/) · [Email](mailto:janoplo.airljoriz@gmail.com)
+<p align="center">I build practical web applications, from school management modules to student well-being platforms.</p>
+<p align="center">
+  <a href="https://www.linkedin.com/in/airljoriz-dev/">LinkedIn</a> ·
+  <a href="mailto:janoplo.airljoriz@gmail.com">Email</a>
+</p>
 
 ---
+
+### About
+
+I’m Au, an early-career AI engineer with hands-on experience building frontend interfaces, backend services, database integrations, and RESTful APIs. I work with JavaScript, TypeScript, PHP, and Python, with experience in React, Laravel, and FastAPI.
+
+My work includes school management modules for HR, payroll, and registrar workflows, as well as Sentisphere, a web and mobile sentiment analysis system for student emotional health. I enjoy turning complex workflows into practical, considered software.
 
 ### Selected work
 
-**[Sentisphere](https://github.com/offlineAu/Sentisphere)** · Student well-being  
-A web and mobile sentiment analysis system for student emotional health, bringing together multilingual NLP, backend services, and a counselor dashboard. I led development across the frontend, backend, database integration, and system documentation.  
-`FastAPI` `Python` `React Native` `MySQL` `Hugging Face`
+**[Sentisphere](https://github.com/offlineAu/Sentisphere)** · Web & mobile · 2024–26  
+A sentiment analysis system for monitoring student emotional health. I spearheaded development, built frontend and backend components, integrated the database, and documented the system architecture and workflows.  
+`Laravel` `React` `TypeScript` `Python` `FastAPI` `Hugging Face` `MySQL` `Expo`
 
-**[CHED Issuance Subsystem](https://github.com/offlineAu/IssuanceSubsystem)** · Workflow & access control  
-A role-based issuance system with structured workflows, data integration, and dashboards.  
-`Google Apps Script` `BigQuery` `MVC` `RBAC`
+**[Veloce](https://github.com/offlineAu/Veloce-Dev)** · Web application · In development  
+A client-acquisition platform combining a custom-website sales page, personalized referral pages, and a lead and introduction pipeline.  
+`Next.js` `React` `TypeScript` `Tailwind CSS` `Prisma` `PostgreSQL`
 
-**[Laravel QR Authentication](https://github.com/offlineAu/qr-login-app)** · Authentication  
-A scan-to-authenticate prototype exploring QR-based login and session handling.  
-`Laravel` `PHP` `QR Auth`
+**[E-Lista](https://github.com/offlineAu/E-Lista)** · Mobile application · In development  
+A neighborhood-store application that brings shopper browsing and ordering together with owner workflows for pricing, restocking, and fulfillment. Development currently uses Firebase emulators.  
+`Flutter` `Dart` `Firebase` `TypeScript`
+
+**[LOOM](https://github.com/offlineAu/loom)** · Web application · In development  
+A mobile-first tracker platform focused on a shared design system, tracker discovery, and a reusable public application shell.  
+`Next.js` `React` `TypeScript` `Tailwind CSS`
+
+**[Syntax.sip](https://github.com/offlineAu/mobile-syntax-sip)** · Mobile prototype  
+A coffee-shop ordering experience for mobile, including welcome and account flows.  
+`React Native` `Expo`
+
+**[Issuance Subsystem](https://github.com/offlineAu/IssuanceSubsystem)** · CHED Region X  
+An internal higher-education administration subsystem for issuance, processing, and reporting workflows.  
+`Google Apps Script` `JavaScript` `BigQuery` `HTML` `CSS`
+
+### Skills & focus
+
+**Frontend & mobile** · JavaScript, TypeScript, React, mobile development, design systems  
+**Backend & data** · Laravel, PHP, database management, API integration  
+**AI & automation** · Python, FastAPI, sentiment analysis  
+**Tools & workflow** · System analysis, architecture documentation, collaboration
+
+Currently focused on school management workflows, reliable interfaces and APIs, and improving system analysis and architectural documentation.
 
 ---
 
-### What I work with
-
-**Frontend & mobile** · React, React Native, JavaScript, TypeScript  
-**Backend & data** · Laravel, PHP, FastAPI, Python, MySQL  
-**AI & workflow** · Hugging Face, Google Apps Script, BigQuery, Git
-
-### Currently exploring
-
-Layered architecture, reliable backend integrations, real-time data flows, and clearer dashboard experiences.
-
----
-
-<p align="center"><sub>Building practical, considered software · Au</sub></p>
+<p align="center"><sub>Practical, considered software · Au</sub></p>
