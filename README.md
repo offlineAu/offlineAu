@@ -14,7 +14,7 @@
 
 I’m Au. My work spans **frontend interfaces, backend services, database integrations, and RESTful APIs**. I use JavaScript, TypeScript, PHP, and Python, with experience in React, Laravel, and FastAPI.
 
-I’ve worked on HR, payroll, and registrar modules for a school management system. I also spearheaded **Sentisphere**, building frontend and backend components, integrating the database, and documenting the architecture and workflows.
+I’ve worked on Human Resource, Payroll, Finance, Student, Principal and Registrar portals for a school management system. I also spearheaded **Sentisphere**, building frontend and backend components, integrating the database, and documenting the architecture and workflows.
 
 **Currently focused on** school management workflows, reliable interfaces and APIs, and stronger system analysis and documentation.
 
