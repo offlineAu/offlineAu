@@ -60,14 +60,7 @@ The web application uses **Laravel and React**, with a **FastAPI** service for t
 ![Toolkit](github-profile/section-toolkit-light.png#gh-light-mode-only)
 ![Toolkit](github-profile/section-toolkit-dark.png#gh-dark-mode-only)
 
-<p>
-  <img src="github-profile/icons/typescript.svg" alt="TypeScript" width="26" height="26"> &nbsp;
-  <img src="github-profile/icons/react.svg" alt="React" width="26" height="26"> &nbsp;
-  <img src="github-profile/icons/laravel.svg" alt="Laravel" width="26" height="26"> &nbsp;
-  <img src="github-profile/icons/python.svg" alt="Python" width="26" height="26"> &nbsp;
-  <img src="github-profile/icons/fastapi.svg" alt="FastAPI" width="26" height="26"> &nbsp;
-  <img src="github-profile/icons/postgresql.svg" alt="PostgreSQL" width="26" height="26">
-</p>
+
 
 **Frontend & mobile**  
 ![JavaScript](https://img.shields.io/badge/JavaScript-24211e?style=flat-square&logo=javascript&logoColor=F7DF1E) ![TypeScript](https://img.shields.io/badge/TypeScript-24211e?style=flat-square&logo=typescript&logoColor=6eb3f7) ![React](https://img.shields.io/badge/React-24211e?style=flat-square&logo=react&logoColor=61DAFB) ![React Native](https://img.shields.io/badge/React_Native-24211e?style=flat-square&logo=react&logoColor=61DAFB) ![Flutter](https://img.shields.io/badge/Flutter-24211e?style=flat-square&logo=flutter&logoColor=5cc7f2)
@@ -87,18 +80,14 @@ The web application uses **Laravel and React**, with a **FastAPI** service for t
 
 **Contribution calendar** · The past year
 
-[![Contribution calendar for offlineAu](https://ghchart.xqsit94.in/light:halloween/offlineAu#gh-light-mode-only)](https://github.com/offlineAu#contribution-activity)
-[![Contribution calendar for offlineAu](https://ghchart.xqsit94.in/dark:halloween/offlineAu#gh-dark-mode-only)](https://github.com/offlineAu#contribution-activity)
+<a href="https://github.com/offlineAu#contribution-activity">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ghchart.xqsit94.in/dark:halloween/offlineAu">
+    <img src="https://ghchart.xqsit94.in/light:halloween/offlineAu" alt="Contribution calendar for offlineAu over the past year" width="820">
+  </picture>
+</a>
 
 <sub>Select the calendar to explore the contribution history on GitHub.</sub>
-
-**Contribution snake**
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/offlineAu/offlineAu/output/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/offlineAu/offlineAu/output/github-snake.svg">
-  <img alt="Animated snake moving through my GitHub contribution calendar" src="https://raw.githubusercontent.com/offlineAu/offlineAu/output/github-snake.svg" width="820">
-</picture>
 
 **Contribution streak**
 
