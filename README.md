@@ -1,16 +1,20 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="github-profile/masthead-dark.png">
   <source media="(prefers-color-scheme: light)" srcset="github-profile/masthead-light1.png">
-  <img src="github-profile/masthead-light.png" alt="Airl Joriz Janoplo — Junior AI Engineer. ASCII portrait and editorial introduction." width="1200">
+  <img src="github-profile/masthead-light1.png" alt="Airl Joriz Janoplo — Junior AI Engineer. ASCII portrait and editorial introduction." width="1200">
 </picture>
 
 **Junior AI Engineer** based in Bukidnon, Philippines. I build practical web applications, from school management modules to student well-being platforms.
 
 [Selected work](#selected-work) &nbsp; / &nbsp; [Toolkit](#toolkit) &nbsp; / &nbsp; [GitHub activity](#github-activity) &nbsp; / &nbsp; [LinkedIn](https://www.linkedin.com/in/airljoriz-dev/) &nbsp; / &nbsp; [Email](mailto:janoplo.airljoriz@gmail.com)
 
----
 
-### 01 / About
+<a id="about"></a>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-profile/section-about-dark.png">
+  <source media="(prefers-color-scheme: light)" srcset="github-profile/section-about-light.png">
+  <img src="github-profile/section-about-light.png" alt="01 / About" width="1200">
+</picture>
 
 I’m Au. My work spans **frontend interfaces, backend services, database integrations, and RESTful APIs**. I use JavaScript, TypeScript, PHP, and Python, with experience in React, Laravel, and FastAPI.
 
@@ -18,9 +22,13 @@ I’ve worked on Human Resource, Payroll, Finance, Student, Principal and Regist
 
 **Currently focused on** school management workflows, reliable interfaces and APIs, and stronger system analysis and documentation.
 
----
 
-### 02 / Selected work
+<a id="selected-work"></a>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-profile/section-selected-work-dark.png">
+  <source media="(prefers-color-scheme: light)" srcset="github-profile/section-selected-work-light.png">
+  <img src="github-profile/section-selected-work-light.png" alt="02 / Selected work" width="1200">
+</picture>
 
 <table>
   <tr>
@@ -34,6 +42,16 @@ I’ve worked on Human Resource, Payroll, Finance, Student, Principal and Regist
 </table>
 
 <details>
+<summary><strong>Inside Sentisphere: how the pieces fit together</strong></summary>
+<br>
+
+The web application uses **Laravel and React**, with a **FastAPI** service for transformer-based sentiment analysis. A **React Native and Expo** companion app supports student check-ins. My work covered frontend and backend components, database integration, and architectural and workflow documentation.
+
+[Explore the Sentisphere repository](https://github.com/offlineAu/Sentisphere)
+
+</details>
+
+<details>
 <summary><strong>View two more projects</strong></summary>
 <br>
 
@@ -43,9 +61,13 @@ I’ve worked on Human Resource, Payroll, Finance, Student, Principal and Regist
 
 </details>
 
----
 
-### 03 / Toolkit
+<a id="toolkit"></a>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-profile/section-toolkit-dark.png">
+  <source media="(prefers-color-scheme: light)" srcset="github-profile/section-toolkit-light.png">
+  <img src="github-profile/section-toolkit-light.png" alt="03 / Toolkit" width="1200">
+</picture>
 
 <p>
   <img src="github-profile/icons/typescript.svg" alt="TypeScript" width="26" height="26"> &nbsp;
@@ -56,13 +78,42 @@ I’ve worked on Human Resource, Payroll, Finance, Student, Principal and Regist
   <img src="github-profile/icons/postgresql.svg" alt="PostgreSQL" width="26" height="26">
 </p>
 
-**Frontend & mobile** &nbsp; JavaScript, TypeScript, React, React Native, Flutter, design systems  
-**Backend & data** &nbsp; Laravel, PHP, FastAPI, MySQL, PostgreSQL, API integration  
-**AI & workflow** &nbsp; Python, Hugging Face, system analysis, architecture documentation
+**Frontend & mobile**  
+![JavaScript](https://img.shields.io/badge/JavaScript-24211e?style=flat-square&logo=javascript&logoColor=F7DF1E) ![TypeScript](https://img.shields.io/badge/TypeScript-24211e?style=flat-square&logo=typescript&logoColor=6eb3f7) ![React](https://img.shields.io/badge/React-24211e?style=flat-square&logo=react&logoColor=61DAFB) ![React Native](https://img.shields.io/badge/React_Native-24211e?style=flat-square&logo=react&logoColor=61DAFB) ![Flutter](https://img.shields.io/badge/Flutter-24211e?style=flat-square&logo=flutter&logoColor=5cc7f2)
 
----
+**Backend & data**  
+![PHP](https://img.shields.io/badge/PHP-24211e?style=flat-square&logo=php&logoColor=aeb9ea) ![Laravel](https://img.shields.io/badge/Laravel-24211e?style=flat-square&logo=laravel&logoColor=ff6e61) ![FastAPI](https://img.shields.io/badge/FastAPI-24211e?style=flat-square&logo=fastapi&logoColor=59cbb9) ![MySQL](https://img.shields.io/badge/MySQL-24211e?style=flat-square&logo=mysql&logoColor=8dc1dc) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-24211e?style=flat-square&logo=postgresql&logoColor=9ac3e1)
 
-### 04 / GitHub activity
+**AI & workflow**  
+![Python](https://img.shields.io/badge/Python-24211e?style=flat-square&logo=python&logoColor=ffcf68) ![Hugging Face](https://img.shields.io/badge/Hugging_Face-24211e?style=flat-square&logo=huggingface&logoColor=ffcf68) ![Google Apps Script](https://img.shields.io/badge/Apps_Script-24211e?style=flat-square&logo=googleappsscript&logoColor=87b4ed) ![BigQuery](https://img.shields.io/badge/BigQuery-24211e?style=flat-square&logo=googlebigquery&logoColor=87b4ed)
+
+<sub>Also working on system analysis, API integration, and architecture documentation.</sub>
+
+
+<a id="github-activity"></a>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-profile/section-github-activity-dark.png">
+  <source media="(prefers-color-scheme: light)" srcset="github-profile/section-github-activity-light.png">
+  <img src="github-profile/section-github-activity-light.png" alt="04 / Activity" width="1200">
+</picture>
+
+**Contribution calendar** · The past year
+
+<a href="https://github.com/offlineAu#contribution-activity">
+  <img src="https://ghchart.rshah.org/c8a96e/offlineAu" alt="Contribution calendar for offlineAu over the past year" width="820">
+</a>
+
+<sub>Select the calendar to explore the contribution history on GitHub.</sub>
+
+**Contribution snake**
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/offlineAu/offlineAu/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/offlineAu/offlineAu/output/github-snake.svg">
+  <img alt="Animated snake moving through my GitHub contribution calendar" src="https://raw.githubusercontent.com/offlineAu/offlineAu/output/github-snake.svg" width="820">
+</picture>
+
+**Contribution streak**
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=offlineAu&amp;theme=dark&amp;hide_border=true&amp;background=00000000&amp;ring=c8a96e&amp;fire=c8a96e&amp;currStreakLabel=c8a96e">
